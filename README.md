@@ -1,4 +1,13 @@
-![Food Delivery App](img/screenshot/HomeScreen.png)
+## 🖥 App Screenshots
+
+### 🏠 Home Screen
+![Home Screen](img/screenshot/HomeScreen.png)
+
+### 🎁 Offer Screen
+![Offer Screen](img/screenshot/OfferScreen.png)
+
+### 🛒 Cart & Order Screen
+![Cart Order Screen](img/screenshot/CartOrderScreen.png)
  
  
  # Food Delivery App
@@ -22,4 +31,5 @@ A responsive web application to browse restaurants, view menus, and place food o
 1. Clone the repository:
    ```bash
     git clone https://github.com/Kavita9-git/Food-Delivery-WebApp.git
+
 
